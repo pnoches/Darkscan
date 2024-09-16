@@ -22,9 +22,9 @@ This tool uses IoT Search Engine API like **Shodan, BinaryEdge, FOFA** and **URL
 ## Installation
 
 > [!IMPORTANT]
-> You need to have Tor service installed and running over **"socks5h://localhost:9050"**
-> `brew install tor` (OSX)
-> `apt install tor` (Debian-based)
+> You need to have Tor service installed and running over **"socks5h://localhost:9050"**  
+> `brew install tor` (OSX)  
+> `apt install tor` (Debian-based)  
 
 Then:
 
