@@ -21,11 +21,11 @@ This tool uses IoT Search Engine API like **Shodan, BinaryEdge, FOFA** and **URL
 
 ## Installation
 
-> [!IMPORTANT]: 
+> [!IMPORTANT]
 > You need to have Tor service installed and running over **"socks5h://localhost:9050"**
 > `brew install tor` (OSX)
 > `apt install tor` (Debian-based)
->
+
 Then:
 
     $ git clone https://github.com/pnoches/darkscan.git
